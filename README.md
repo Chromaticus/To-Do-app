@@ -1,1 +1,3 @@
-# To-Do-app
+# To-Do App
+
+A simple to-do list application that allows users to add tasks to a list and mark them as complete. The application allows the user to add tasks by typing them in an input field and clicking the "Add" button. The tasks are then displayed in a list on the page, and the user can mark a task as complete by clicking on it. When a task is marked as complete, it will be visually crossed out. The application uses LocalStorage to save the list of tasks so that the user's to-do list will persist even after the page is refreshed. The application also has a clear button which will remove all the items from the list and also from the local storage. The application also uses JavaScript and CSS to create a responsive and interactive user interface.
